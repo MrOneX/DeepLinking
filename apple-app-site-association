@@ -4,8 +4,10 @@
     "details": [
     {
       "appID": "LM38GRJ23A.com.genina.lines",
-      "paths": ["*"]
-    }
+       "paths": [
+          "*"
+        ]
+      }
     ]
   }
 }
